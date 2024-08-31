@@ -1,5 +1,5 @@
 # 💫 About Me:
-[My Portfolio](https://main--devanant.netlify.app/)
+[My Portfolio](https://main--devanant.netlify.app/)<br/><br/>
 👋 Hello World! I'm a passionate MERN developer diving headfirst into the world of web development. 🌐 Currently, I'm on a journey to master the art of crafting robust and scalable websites using MERN Stack.<br><br>🌱 As a Java enthusiast, I'm also exploring the exciting realm of Data Structures and Algorithms (DSA).<br><br> Let's connect, collaborate, and code our way to new heights! 🚀✨
 
 
