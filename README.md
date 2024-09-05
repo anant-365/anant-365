@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://main--devanant.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anantpandey1111) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anantpandey1111) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=black) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![React](https://img.shields.io/badge/React-%23ED8B00.svg?style=flat&logo=React&logoColor=black)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)![Tailwindcss](https://img.shields.io/badge/Tailwindcss%20-121013?style=flat&logo=Tailwindcss&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23ED8B00.svg?style=flat&logo=Express&logoColor=black)![Canva](https://img.shields.io/badge/Node-%2300C4CC.svg?style=flat&logo=Node&logoColor=white)![Mongo DB](https://img.shields.io/badge/Mongo%20DB-121013?style=flat&logo=MongoDB&logoColor=white)
