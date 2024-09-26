@@ -1,6 +1,6 @@
 # 💫 About Me:
 [My Portfolio](https://main--devanant.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;[My Linkdin](https://www.linkedin.com/in/anantpandey1111/)&nbsp;&nbsp;&nbsp;&nbsp;[Project Videos](https://www.youtube.com/playlist?list=PLjZRxu3fAQVqf17YZdDNMMGqZvrFzbMmi)<br/><br/>
-👋 Hello World! I'm a passionate MERN developer diving headfirst into the world of web development. 🌐 Currently, I'm on a journey to master the art of crafting robust and scalable websites using MERN Stack.<br><br>🌱 As a Java enthusiast, I'm also exploring the exciting realm of Data Structures and Algorithms (DSA).<br><br> Let's connect, collaborate, and code our way to new heights! 🚀✨
+👋 Hello World! I'm a passionate MERN developer diving headfirst into the world of web development. 🌐 Currently, I'm on a journey to master the art of crafting robust and scalable websites using MERN Stack.<br><br>🌱I'm also exploring the exciting realm of Data Structures and Algorithms (DSA).<br><br> Let's connect, collaborate, and code our way to new heights! 🚀✨
 
 
 ## 🌐 Socials:
