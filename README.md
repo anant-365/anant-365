@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on [Yelpcamp (Using Mern stack)](https://github.com/anant-365/YelpCamp)
 
-- 👨‍💻 All of my projects are available at [https://main--devanant.netlify.app/](https://main--devanant.netlify.app/)
+- 👨‍💻 All of my projects are available at: [my portfolio website](https://main--devanant.netlify.app/)
 
 - 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **pandeyanant363@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ZgfBrTAeiLc1lucCT9LMc9YKRMBB2uyg/edit?usp=sharing&ouid=101858279008841599876&rtpof=true&sd=true](https://docs.google.com/document/d/1ZgfBrTAeiLc1lucCT9LMc9YKRMBB2uyg/edit?usp=sharing&ouid=101858279008841599876&rtpof=true&sd=true)
+- 📄 Know about my experiences: [View my Resume](https://docs.google.com/document/d/1ZgfBrTAeiLc1lucCT9LMc9YKRMBB2uyg/edit?usp=sharing&ouid=101858279008841599876&rtpof=true&sd=true)
 
 - ⚡ Fun fact **The term "debugging" came from a literal moth found in a computer in 1947!**
 
