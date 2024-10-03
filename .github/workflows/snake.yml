@@ -1,7 +1,5 @@
 name: Generate Snake
 
-# Controls when the action will run.
-# This will run every 6 hours.
 on:
   schedule:
     - cron: "0 */6 * * *"  # Runs every 6 hours
@@ -13,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Check out the repository under $GITHUB_WORKSPACE so the job can access it
+    # Checkout the repository
     - name: Checkout the repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v3  # Node.js 20 is automatically supported
 
     # Generate the snake contribution GIF and SVG
     - name: Generate Snake GIF
@@ -34,7 +32,7 @@ jobs:
         git commit -m "Generated Snake"
         git push origin master
 
-    # Deploy the snake to GitHub Pages (optional)
+    # Deploy the snake to GitHub Pages
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v2.1.3
       with:
