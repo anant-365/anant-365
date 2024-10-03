@@ -1,7 +1,7 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5Nzk0NjUsIm5iZiI6MTcyNzk3OTE2NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDE4MTI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwNmY1NzRkNmEyY2JiYjBlZWUyYTk4OGYxNTlhNThmMGIxZmYxYjMzZDVkOGU1ZWE5MWNkMDgzN2Y4Mjk3Y2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._M-V7uaABoqhR_5WewGozGZ4LLBp5vbooB8tuoXWEG8)](https://main--devanant.netlify.app/)
 <h1 align="center">Hi 👋, I'm Anant Pandey</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🔭 I’m currently working on [Geofencing Based Attendence Tracking System](https://github.com/shreykumar33/SIH1707)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: [View my Resume](https://docs.google.com/document/d/1ZgfBrTAeiLc1lucCT9LMc9YKRMBB2uyg/edit?usp=sharing&ouid=101858279008841599876&rtpof=true&sd=true)
 
-- ⚡ Fun fact **The term "debugging" came from a literal moth found in a computer in 1947!**
+- ⚡ Fun fact: **The term "debugging" came from a literal moth found in a computer in 1947!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
