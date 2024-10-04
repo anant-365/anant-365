@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Anant Pandey</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXcwYzhiamFqcXZsbGM1MmJ0OWk4MGwxejAxeGsza291dXlmcWh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VTwDfhNOmMxZMm2iYf/giphy.webp">
 
 - 🔭 I’m currently working on [Geofencing Based Attendence Tracking System](https://github.com/shreykumar33/SIH1707)
 
